@@ -1,6 +1,6 @@
 # Commerce billing sample
 
-Selected TypeScript/NestJS code from a private multi-tenant commerce application.
+Selected TypeScript/NestJS code from a multi-tenant commerce application.
 
 The sample handles store subscription renewals, payment attempts, and uncertain provider outcomes.
 
@@ -14,4 +14,4 @@ The included tests cover terminal paid settlement, expired replay protection, pr
 
 This is a source excerpt, not a standalone application. Application wiring and adjacent dependencies are omitted; imports retain their original structure with an anonymized database package name. Tests have not been run in this extraction.
 
-The full repository is private; access or a walkthrough can be arranged on request.
+Additional code and a walkthrough are available on request.
